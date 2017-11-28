@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="convert-result-images-to-anno-paths.cpp" />
+    <ClCompile Include="dlib\dlib\dir_nav\dir_nav_extensions.cpp">
+      <Filter>dlib\dir_nav</Filter>
+    </ClCompile>
+    <ClCompile Include="dlib\dlib\dir_nav\dir_nav_kernel_1.cpp">
+      <Filter>dlib\dir_nav</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="dlib">
+      <UniqueIdentifier>{47092627-9d40-470b-b8ed-b04eaa3514c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="dlib\dir_nav">
+      <UniqueIdentifier>{bb02864d-e4de-4fe8-b57d-6006011835ea}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
