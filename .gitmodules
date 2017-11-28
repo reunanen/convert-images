@@ -1,0 +1,9 @@
+[submodule "dlib"]
+	path = dlib
+	url = https://github.com/reunanen/dlib
+[submodule "cxxopts"]
+	path = cxxopts
+	url = https://github.com/reunanen/cxxopts
+[submodule "opencv-binaries-vs-no-lfs"]
+	path = opencv-binaries-vs-no-lfs
+	url = https://bitbucket.org/reunanen/opencv-binaries-vs-no-lfs
